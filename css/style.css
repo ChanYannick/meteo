@@ -1,0 +1,59 @@
+
+
+
+h2,h3{
+	font-family: 'Bree Serif', serif;
+	color: #CCCCCC;
+}
+
+h3{
+	font-size: 1em;
+}
+
+.measure{
+	font-size: 10em;
+	font-family: 'Vollkorn', serif;
+}
+
+.cold{
+	color: #3DCEFF;
+}
+
+.warm{
+	color: #FF7700;
+}
+
+.regular{
+	color: #00D178;
+}
+
+.unit{
+	font-size: 5em;
+	font-family: 'Vollkorn', serif;
+}
+
+.icon{
+    margin-top: 100px;
+}
+
+.loader{
+	
+}
+
+.loader.small{
+	margin-top:0;
+	display: inline-block;
+}
+
+.fixed-height{
+	min-height: 350px;
+
+}
+
+#weather-icon{
+    font-size: 60px;
+    color: skyblue;
+}
+.inline{
+  display: inline-flex;
+}
